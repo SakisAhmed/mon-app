@@ -1,0 +1,25 @@
+body{
+  background-image: url(background1.jpg);
+}
+form{
+  display: block;
+  margin-left: 50px;
+  margin-right: auto;
+  margin-top: 50px;
+  font-family: 'Festive', cursive;
+  width: 50%;
+  height: 100%;
+  padding: 10px;
+  border: 1px solid rgb(255, 0, 0);
+  border-radius: 10px;
+  color: black;
+  background-color: rgb(192, 192, 192, 0.6) ;
+}
+p{
+  text-align: center;
+  text-transform: uppercase
+}
+form button{
+  position: relative;
+  left :280px
+}
